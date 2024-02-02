@@ -1,0 +1,47 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  padding: 10px 0;
+  z-index: 2;
+  border-bottom: 1px solid #b17986;
+  background-color: #2f2fa2;
+  .name {
+    color: #b17986;
+    font-family: "SF Mono";
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+
+    img {
+      margin-right: 6px;
+      width: 27.28px;
+    }
+  }
+
+  .socials {
+    padding-right: 10px;
+    width: 90px;
+    display: flex;
+    justify-content: space-between;
+
+    a {
+      color: #b17986;
+      text-decoration: none;
+
+      &:hover {
+        opacity: 0.9;
+      }
+    }
+  }
+}

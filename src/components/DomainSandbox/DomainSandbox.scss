@@ -1,0 +1,31 @@
+.domainSandbox {
+  display: flex;
+  flex-direction: column;
+  textarea {
+    resize: none;
+    font-family: monospace;
+    font-size: 18px;
+    padding: 10px;
+    border: 1px solid #2f2fa2;
+    outline: none;
+    background-color: #403d54;
+    color: white;
+    height: auto;
+  }
+
+  textarea::placeholder {
+    opacity: 0.5;
+    color: white;
+  }
+}
+
+.ql-editor {
+  a {
+    color: #ffadc0;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

@@ -1,0 +1,2782 @@
+[
+  {
+    "extension": ".abb",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".ae",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".aero",
+    "type": "sponsored",
+    "rank": 0
+  },
+  {
+    "extension": ".analytics",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".android",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".aquarelle",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".ar",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".azure",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".ba",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".barcelona",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".bike",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".bingo",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".blanco",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".blockbuster",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".bom",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".bot",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".ca",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".cern",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".cisco",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".citadel",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".desi",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".dev",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".er",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".es",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".eu",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".fage",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".fi",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".firestone",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".foo",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".gent",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".glade",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".goo",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".goodyear",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".graphics",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".gripe",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".hangout",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".honda",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".hosting",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".id",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".ie",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".ing",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".intuit",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".juniper",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".kim",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".kindle",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".kiwi",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".lat",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".latrobe",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".li",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".lotto",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".luxe",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".ly",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".mango",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".mil",
+    "type": "sponsored",
+    "rank": 0
+  },
+  {
+    "extension": ".mo",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".mu",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".na",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".nexus",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".ni",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".nu",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".obi",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".om",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".ping",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".prof",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".reit",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".rocher",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".sa",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".sapo",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".schule",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".schwarz",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".sina",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".spiegel",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".st",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".swatch",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".tattoo",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".th",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".tiffany",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".tui",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".ug",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".viking",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".vodka",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".wang",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".warman",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".yahoo",
+    "type": "generic",
+    "rank": 0
+  },
+  {
+    "extension": ".za",
+    "type": "country-code",
+    "rank": 0
+  },
+  {
+    "extension": ".ai",
+    "type": "country-code",
+    "rank": 1
+  },
+  {
+    "extension": ".bo",
+    "type": "country-code",
+    "rank": 1
+  },
+  {
+    "extension": ".boo",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".broker",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".cal",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".cam",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".coupon",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".florist",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".ga",
+    "type": "country-code",
+    "rank": 1
+  },
+  {
+    "extension": ".gratis",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".guru",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".hockey",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".io",
+    "type": "country-code",
+    "rank": 1
+  },
+  {
+    "extension": ".ist",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".jot",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".kosher",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".omega",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".prudential",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".pub",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".rodeo",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".salon",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".sap",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".scot",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".si",
+    "type": "country-code",
+    "rank": 1
+  },
+  {
+    "extension": ".singles",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".sling",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".soy",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".surf",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".tab",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".vet",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".viva",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".wow",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".yoga",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".zip",
+    "type": "generic",
+    "rank": 1
+  },
+  {
+    "extension": ".accountant",
+    "type": "generic",
+    "rank": 2
+  },
+  {
+    "extension": ".audio",
+    "type": "generic",
+    "rank": 2
+  },
+  {
+    "extension": ".bing",
+    "type": "generic",
+    "rank": 2
+  },
+  {
+    "extension": ".biz",
+    "type": "generic-restricted",
+    "rank": 2
+  },
+  {
+    "extension": ".bosch",
+    "type": "generic",
+    "rank": 2
+  },
+  {
+    "extension": ".casino",
+    "type": "generic",
+    "rank": 2
+  },
+  {
+    "extension": ".click",
+    "type": "generic",
+    "rank": 2
+  },
+  {
+    "extension": ".cruise",
+    "type": "generic",
+    "rank": 2
+  },
+  {
+    "extension": ".ge",
+    "type": "country-code",
+    "rank": 2
+  },
+  {
+    "extension": ".locus",
+    "type": "generic",
+    "rank": 2
+  },
+  {
+    "extension": ".loft",
+    "type": "generic",
+    "rank": 2
+  },
+  {
+    "extension": ".mormon",
+    "type": "generic",
+    "rank": 2
+  },
+  {
+    "extension": ".nab",
+    "type": "generic",
+    "rank": 2
+  },
+  {
+    "extension": ".oracle",
+    "type": "generic",
+    "rank": 2
+  },
+  {
+    "extension": ".prod",
+    "type": "generic",
+    "rank": 2
+  },
+  {
+    "extension": ".realty",
+    "type": "generic",
+    "rank": 2
+  },
+  {
+    "extension": ".sexy",
+    "type": "generic",
+    "rank": 2
+  },
+  {
+    "extension": ".sh",
+    "type": "country-code",
+    "rank": 2
+  },
+  {
+    "extension": ".spa",
+    "type": "generic",
+    "rank": 2
+  },
+  {
+    "extension": ".video",
+    "type": "generic",
+    "rank": 2
+  },
+  {
+    "extension": ".weber",
+    "type": "generic",
+    "rank": 2
+  },
+  {
+    "extension": ".wed",
+    "type": "generic",
+    "rank": 2
+  },
+  {
+    "extension": ".weir",
+    "type": "generic",
+    "rank": 2
+  },
+  {
+    "extension": ".aw",
+    "type": "country-code",
+    "rank": 3
+  },
+  {
+    "extension": ".clinic",
+    "type": "generic",
+    "rank": 3
+  },
+  {
+    "extension": ".coop",
+    "type": "sponsored",
+    "rank": 3
+  },
+  {
+    "extension": ".cricket",
+    "type": "generic",
+    "rank": 3
+  },
+  {
+    "extension": ".dell",
+    "type": "generic",
+    "rank": 3
+  },
+  {
+    "extension": ".jewelry",
+    "type": "generic",
+    "rank": 3
+  },
+  {
+    "extension": ".pizza",
+    "type": "generic",
+    "rank": 3
+  },
+  {
+    "extension": ".re",
+    "type": "country-code",
+    "rank": 3
+  },
+  {
+    "extension": ".soccer",
+    "type": "generic",
+    "rank": 3
+  },
+  {
+    "extension": ".vanguard",
+    "type": "generic",
+    "rank": 3
+  },
+  {
+    "extension": ".vista",
+    "type": "generic",
+    "rank": 3
+  },
+  {
+    "extension": ".woodside",
+    "type": "generic",
+    "rank": 3
+  },
+  {
+    "extension": ".auction",
+    "type": "generic",
+    "rank": 4
+  },
+  {
+    "extension": ".audible",
+    "type": "generic",
+    "rank": 4
+  },
+  {
+    "extension": ".chrome",
+    "type": "generic",
+    "rank": 4
+  },
+  {
+    "extension": ".dating",
+    "type": "generic",
+    "rank": 4
+  },
+  {
+    "extension": ".feedback",
+    "type": "generic",
+    "rank": 4
+  },
+  {
+    "extension": ".global",
+    "type": "generic",
+    "rank": 4
+  },
+  {
+    "extension": ".rio",
+    "type": "generic",
+    "rank": 4
+  },
+  {
+    "extension": ".um",
+    "type": "country-code",
+    "rank": 4
+  },
+  {
+    "extension": ".canon",
+    "type": "generic",
+    "rank": 5
+  },
+  {
+    "extension": ".chat",
+    "type": "generic",
+    "rank": 5
+  },
+  {
+    "extension": ".gal",
+    "type": "generic",
+    "rank": 5
+  },
+  {
+    "extension": ".jaguar",
+    "type": "generic",
+    "rank": 5
+  },
+  {
+    "extension": ".menu",
+    "type": "generic",
+    "rank": 5
+  },
+  {
+    "extension": ".nationwide",
+    "type": "generic",
+    "rank": 5
+  },
+  {
+    "extension": ".pharmacy",
+    "type": "generic",
+    "rank": 5
+  },
+  {
+    "extension": ".photo",
+    "type": "generic",
+    "rank": 5
+  },
+  {
+    "extension": ".realtor",
+    "type": "generic",
+    "rank": 5
+  },
+  {
+    "extension": ".ski",
+    "type": "generic",
+    "rank": 5
+  },
+  {
+    "extension": ".visa",
+    "type": "generic",
+    "rank": 5
+  },
+  {
+    "extension": ".ax",
+    "type": "country-code",
+    "rank": 6
+  },
+  {
+    "extension": ".booking",
+    "type": "generic",
+    "rank": 6
+  },
+  {
+    "extension": ".digital",
+    "type": "generic",
+    "rank": 6
+  },
+  {
+    "extension": ".jo",
+    "type": "country-code",
+    "rank": 6
+  },
+  {
+    "extension": ".liaison",
+    "type": "generic",
+    "rank": 6
+  },
+  {
+    "extension": ".monster",
+    "type": "generic",
+    "rank": 6
+  },
+  {
+    "extension": ".ne",
+    "type": "country-code",
+    "rank": 6
+  },
+  {
+    "extension": ".poker",
+    "type": "generic",
+    "rank": 6
+  },
+  {
+    "extension": ".rip",
+    "type": "generic",
+    "rank": 6
+  },
+  {
+    "extension": ".sew",
+    "type": "generic",
+    "rank": 6
+  },
+  {
+    "extension": ".surgery",
+    "type": "generic",
+    "rank": 6
+  },
+  {
+    "extension": ".barefoot",
+    "type": "generic",
+    "rank": 7
+  },
+  {
+    "extension": ".delta",
+    "type": "generic",
+    "rank": 7
+  },
+  {
+    "extension": ".directory",
+    "type": "generic",
+    "rank": 7
+  },
+  {
+    "extension": ".ink",
+    "type": "generic",
+    "rank": 7
+  },
+  {
+    "extension": ".mint",
+    "type": "generic",
+    "rank": 7
+  },
+  {
+    "extension": ".photography",
+    "type": "generic",
+    "rank": 7
+  },
+  {
+    "extension": ".reliance",
+    "type": "generic",
+    "rank": 7
+  },
+  {
+    "extension": ".caravan",
+    "type": "generic",
+    "rank": 8
+  },
+  {
+    "extension": ".charity",
+    "type": "generic",
+    "rank": 8
+  },
+  {
+    "extension": ".eh",
+    "type": "country-code",
+    "rank": 8
+  },
+  {
+    "extension": ".fidelity",
+    "type": "generic",
+    "rank": 8
+  },
+  {
+    "extension": ".fitness",
+    "type": "generic",
+    "rank": 8
+  },
+  {
+    "extension": ".pet",
+    "type": "generic",
+    "rank": 8
+  },
+  {
+    "extension": ".tech",
+    "type": "generic",
+    "rank": 8
+  },
+  {
+    "extension": ".ally",
+    "type": "generic",
+    "rank": 9
+  },
+  {
+    "extension": ".apple",
+    "type": "generic",
+    "rank": 9
+  },
+  {
+    "extension": ".basketball",
+    "type": "generic",
+    "rank": 9
+  },
+  {
+    "extension": ".duck",
+    "type": "generic",
+    "rank": 9
+  },
+  {
+    "extension": ".grocery",
+    "type": "generic",
+    "rank": 9
+  },
+  {
+    "extension": ".guardian",
+    "type": "generic",
+    "rank": 9
+  },
+  {
+    "extension": ".locker",
+    "type": "generic",
+    "rank": 9
+  },
+  {
+    "extension": ".plumbing",
+    "type": "generic",
+    "rank": 9
+  },
+  {
+    "extension": ".shaw",
+    "type": "generic",
+    "rank": 9
+  },
+  {
+    "extension": ".forum",
+    "type": "generic",
+    "rank": 10
+  },
+  {
+    "extension": ".lease",
+    "type": "generic",
+    "rank": 10
+  },
+  {
+    "extension": ".raid",
+    "type": "generic",
+    "rank": 10
+  },
+  {
+    "extension": ".se",
+    "type": "country-code",
+    "rank": 10
+  },
+  {
+    "extension": ".dodge",
+    "type": "generic",
+    "rank": 11
+  },
+  {
+    "extension": ".ye",
+    "type": "country-code",
+    "rank": 11
+  },
+  {
+    "extension": ".zone",
+    "type": "generic",
+    "rank": 11
+  },
+  {
+    "extension": ".ad",
+    "type": "country-code",
+    "rank": 12
+  },
+  {
+    "extension": ".cab",
+    "type": "generic",
+    "rank": 12
+  },
+  {
+    "extension": ".dental",
+    "type": "generic",
+    "rank": 12
+  },
+  {
+    "extension": ".dentist",
+    "type": "generic",
+    "rank": 12
+  },
+  {
+    "extension": ".discount",
+    "type": "generic",
+    "rank": 12
+  },
+  {
+    "extension": ".fox",
+    "type": "generic",
+    "rank": 12
+  },
+  {
+    "extension": ".silk",
+    "type": "generic",
+    "rank": 12
+  },
+  {
+    "extension": ".buzz",
+    "type": "generic",
+    "rank": 13
+  },
+  {
+    "extension": ".computer",
+    "type": "generic",
+    "rank": 13
+  },
+  {
+    "extension": ".consulting",
+    "type": "generic",
+    "rank": 13
+  },
+  {
+    "extension": ".democrat",
+    "type": "generic",
+    "rank": 13
+  },
+  {
+    "extension": ".dot",
+    "type": "generic",
+    "rank": 13
+  },
+  {
+    "extension": ".fiat",
+    "type": "generic",
+    "rank": 13
+  },
+  {
+    "extension": ".map",
+    "type": "generic",
+    "rank": 13
+  },
+  {
+    "extension": ".media",
+    "type": "generic",
+    "rank": 13
+  },
+  {
+    "extension": ".swiss",
+    "type": "generic",
+    "rank": 14
+  },
+  {
+    "extension": ".dad",
+    "type": "generic",
+    "rank": 15
+  },
+  {
+    "extension": ".tennis",
+    "type": "generic",
+    "rank": 15
+  },
+  {
+    "extension": ".channel",
+    "type": "generic",
+    "rank": 16
+  },
+  {
+    "extension": ".dish",
+    "type": "generic",
+    "rank": 16
+  },
+  {
+    "extension": ".jeep",
+    "type": "generic",
+    "rank": 16
+  },
+  {
+    "extension": ".link",
+    "type": "generic",
+    "rank": 16
+  },
+  {
+    "extension": ".observer",
+    "type": "generic",
+    "rank": 16
+  },
+  {
+    "extension": ".pin",
+    "type": "generic",
+    "rank": 16
+  },
+  {
+    "extension": ".pro",
+    "type": "generic-restricted",
+    "rank": 16
+  },
+  {
+    "extension": ".quest",
+    "type": "generic",
+    "rank": 16
+  },
+  {
+    "extension": ".solar",
+    "type": "generic",
+    "rank": 16
+  },
+  {
+    "extension": ".taxi",
+    "type": "generic",
+    "rank": 16
+  },
+  {
+    "extension": ".gap",
+    "type": "generic",
+    "rank": 17
+  },
+  {
+    "extension": ".holiday",
+    "type": "generic",
+    "rank": 17
+  },
+  {
+    "extension": ".mortgage",
+    "type": "generic",
+    "rank": 17
+  },
+  {
+    "extension": ".progressive",
+    "type": "generic",
+    "rank": 17
+  },
+  {
+    "extension": ".sport",
+    "type": "generic",
+    "rank": 17
+  },
+  {
+    "extension": ".voyage",
+    "type": "generic",
+    "rank": 17
+  },
+  {
+    "extension": ".chase",
+    "type": "generic",
+    "rank": 18
+  },
+  {
+    "extension": ".fan",
+    "type": "generic",
+    "rank": 18
+  },
+  {
+    "extension": ".crown",
+    "type": "generic",
+    "rank": 19
+  },
+  {
+    "extension": ".delivery",
+    "type": "generic",
+    "rank": 19
+  },
+  {
+    "extension": ".ma",
+    "type": "country-code",
+    "rank": 19
+  },
+  {
+    "extension": ".bet",
+    "type": "generic",
+    "rank": 20
+  },
+  {
+    "extension": ".boots",
+    "type": "generic",
+    "rank": 20
+  },
+  {
+    "extension": ".clothing",
+    "type": "generic",
+    "rank": 20
+  },
+  {
+    "extension": ".pioneer",
+    "type": "generic",
+    "rank": 20
+  },
+  {
+    "extension": ".repair",
+    "type": "generic",
+    "rank": 20
+  },
+  {
+    "extension": ".diet",
+    "type": "generic",
+    "rank": 21
+  },
+  {
+    "extension": ".luxury",
+    "type": "generic",
+    "rank": 21
+  },
+  {
+    "extension": ".rent",
+    "type": "generic",
+    "rank": 21
+  },
+  {
+    "extension": ".smart",
+    "type": "generic",
+    "rank": 21
+  },
+  {
+    "extension": ".auto",
+    "type": "generic",
+    "rank": 22
+  },
+  {
+    "extension": ".bid",
+    "type": "generic",
+    "rank": 22
+  },
+  {
+    "extension": ".racing",
+    "type": "generic",
+    "rank": 22
+  },
+  {
+    "extension": ".shell",
+    "type": "generic",
+    "rank": 22
+  },
+  {
+    "extension": ".cat",
+    "type": "sponsored",
+    "rank": 23
+  },
+  {
+    "extension": ".lighting",
+    "type": "generic",
+    "rank": 23
+  },
+  {
+    "extension": ".memorial",
+    "type": "generic",
+    "rank": 23
+  },
+  {
+    "extension": ".orange",
+    "type": "generic",
+    "rank": 23
+  },
+  {
+    "extension": ".pa",
+    "type": "country-code",
+    "rank": 23
+  },
+  {
+    "extension": ".select",
+    "type": "generic",
+    "rank": 23
+  },
+  {
+    "extension": ".academy",
+    "type": "generic",
+    "rank": 24
+  },
+  {
+    "extension": ".actor",
+    "type": "generic",
+    "rank": 24
+  },
+  {
+    "extension": ".broadway",
+    "type": "generic",
+    "rank": 24
+  },
+  {
+    "extension": ".cheap",
+    "type": "generic",
+    "rank": 24
+  },
+  {
+    "extension": ".coach",
+    "type": "generic",
+    "rank": 24
+  },
+  {
+    "extension": ".ford",
+    "type": "generic",
+    "rank": 24
+  },
+  {
+    "extension": ".insure",
+    "type": "generic",
+    "rank": 24
+  },
+  {
+    "extension": ".zero",
+    "type": "generic",
+    "rank": 24
+  },
+  {
+    "extension": ".adult",
+    "type": "generic",
+    "rank": 25
+  },
+  {
+    "extension": ".al",
+    "type": "country-code",
+    "rank": 25
+  },
+  {
+    "extension": ".dealer",
+    "type": "generic",
+    "rank": 25
+  },
+  {
+    "extension": ".star",
+    "type": "generic",
+    "rank": 25
+  },
+  {
+    "extension": ".trading",
+    "type": "generic",
+    "rank": 25
+  },
+  {
+    "extension": ".mutual",
+    "type": "generic",
+    "rank": 26
+  },
+  {
+    "extension": ".shopping",
+    "type": "generic",
+    "rank": 27
+  },
+  {
+    "extension": ".cloud",
+    "type": "generic",
+    "rank": 28
+  },
+  {
+    "extension": ".compare",
+    "type": "generic",
+    "rank": 28
+  },
+  {
+    "extension": ".movie",
+    "type": "generic",
+    "rank": 29
+  },
+  {
+    "extension": ".expert",
+    "type": "generic",
+    "rank": 30
+  },
+  {
+    "extension": ".frontier",
+    "type": "generic",
+    "rank": 30
+  },
+  {
+    "extension": ".gay",
+    "type": "generic",
+    "rank": 30
+  },
+  {
+    "extension": ".network",
+    "type": "generic",
+    "rank": 30
+  },
+  {
+    "extension": ".secure",
+    "type": "generic",
+    "rank": 30
+  },
+  {
+    "extension": ".voting",
+    "type": "generic",
+    "rank": 30
+  },
+  {
+    "extension": ".finance",
+    "type": "generic",
+    "rank": 31
+  },
+  {
+    "extension": ".gallery",
+    "type": "generic",
+    "rank": 31
+  },
+  {
+    "extension": ".studio",
+    "type": "generic",
+    "rank": 31
+  },
+  {
+    "extension": ".tube",
+    "type": "generic",
+    "rank": 31
+  },
+  {
+    "extension": ".cooking",
+    "type": "generic",
+    "rank": 32
+  },
+  {
+    "extension": ".fishing",
+    "type": "generic",
+    "rank": 32
+  },
+  {
+    "extension": ".museum",
+    "type": "sponsored",
+    "rank": 32
+  },
+  {
+    "extension": ".wedding",
+    "type": "generic",
+    "rank": 32
+  },
+  {
+    "extension": ".fly",
+    "type": "generic",
+    "rank": 33
+  },
+  {
+    "extension": ".gift",
+    "type": "generic",
+    "rank": 33
+  },
+  {
+    "extension": ".exposed",
+    "type": "generic",
+    "rank": 34
+  },
+  {
+    "extension": ".golf",
+    "type": "generic",
+    "rank": 34
+  },
+  {
+    "extension": ".net",
+    "type": "generic",
+    "rank": 34
+  },
+  {
+    "extension": ".beer",
+    "type": "generic",
+    "rank": 35
+  },
+  {
+    "extension": ".fish",
+    "type": "generic",
+    "rank": 35
+  },
+  {
+    "extension": ".virgin",
+    "type": "generic",
+    "rank": 35
+  },
+  {
+    "extension": ".camera",
+    "type": "generic",
+    "rank": 36
+  },
+  {
+    "extension": ".cash",
+    "type": "generic",
+    "rank": 36
+  },
+  {
+    "extension": ".football",
+    "type": "generic",
+    "rank": 36
+  },
+  {
+    "extension": ".guide",
+    "type": "generic",
+    "rank": 36
+  },
+  {
+    "extension": ".host",
+    "type": "generic",
+    "rank": 36
+  },
+  {
+    "extension": ".cleaning",
+    "type": "generic",
+    "rank": 37
+  },
+  {
+    "extension": ".fail",
+    "type": "generic",
+    "rank": 37
+  },
+  {
+    "extension": ".navy",
+    "type": "generic",
+    "rank": 37
+  },
+  {
+    "extension": ".foundation",
+    "type": "generic",
+    "rank": 38
+  },
+  {
+    "extension": ".organic",
+    "type": "generic",
+    "rank": 38
+  },
+  {
+    "extension": ".furniture",
+    "type": "generic",
+    "rank": 39
+  },
+  {
+    "extension": ".discover",
+    "type": "generic",
+    "rank": 40
+  },
+  {
+    "extension": ".joy",
+    "type": "generic",
+    "rank": 40
+  },
+  {
+    "extension": ".walter",
+    "type": "generic",
+    "rank": 40
+  },
+  {
+    "extension": ".restaurant",
+    "type": "generic",
+    "rank": 41
+  },
+  {
+    "extension": ".storage",
+    "type": "generic",
+    "rank": 41
+  },
+  {
+    "extension": ".engineer",
+    "type": "generic",
+    "rank": 42
+  },
+  {
+    "extension": ".express",
+    "type": "generic",
+    "rank": 42
+  },
+  {
+    "extension": ".lawyer",
+    "type": "generic",
+    "rank": 43
+  },
+  {
+    "extension": ".marketing",
+    "type": "generic",
+    "rank": 43
+  },
+  {
+    "extension": ".technology",
+    "type": "generic",
+    "rank": 43
+  },
+  {
+    "extension": ".fun",
+    "type": "generic",
+    "rank": 44
+  },
+  {
+    "extension": ".mobile",
+    "type": "generic",
+    "rank": 44
+  },
+  {
+    "extension": ".sale",
+    "type": "generic",
+    "rank": 44
+  },
+  {
+    "extension": ".ice",
+    "type": "generic",
+    "rank": 45
+  },
+  {
+    "extension": ".prime",
+    "type": "generic",
+    "rank": 45
+  },
+  {
+    "extension": ".target",
+    "type": "generic",
+    "rank": 45
+  },
+  {
+    "extension": ".author",
+    "type": "generic",
+    "rank": 46
+  },
+  {
+    "extension": ".bond",
+    "type": "generic",
+    "rank": 46
+  },
+  {
+    "extension": ".engineering",
+    "type": "generic",
+    "rank": 46
+  },
+  {
+    "extension": ".insurance",
+    "type": "generic",
+    "rank": 46
+  },
+  {
+    "extension": ".loan",
+    "type": "generic",
+    "rank": 46
+  },
+  {
+    "extension": ".safety",
+    "type": "generic",
+    "rank": 47
+  },
+  {
+    "extension": ".skin",
+    "type": "generic",
+    "rank": 47
+  },
+  {
+    "extension": ".pink",
+    "type": "generic",
+    "rank": 48
+  },
+  {
+    "extension": ".institute",
+    "type": "generic",
+    "rank": 50
+  },
+  {
+    "extension": ".estate",
+    "type": "generic",
+    "rank": 51
+  },
+  {
+    "extension": ".stream",
+    "type": "generic",
+    "rank": 51
+  },
+  {
+    "extension": ".gold",
+    "type": "generic",
+    "rank": 52
+  },
+  {
+    "extension": ".la",
+    "type": "country-code",
+    "rank": 52
+  },
+  {
+    "extension": ".theater",
+    "type": "generic",
+    "rank": 52
+  },
+  {
+    "extension": ".trust",
+    "type": "generic",
+    "rank": 52
+  },
+  {
+    "extension": ".band",
+    "type": "generic",
+    "rank": 53
+  },
+  {
+    "extension": ".phone",
+    "type": "generic",
+    "rank": 54
+  },
+  {
+    "extension": ".republican",
+    "type": "generic",
+    "rank": 54
+  },
+  {
+    "extension": ".seat",
+    "type": "generic",
+    "rank": 54
+  },
+  {
+    "extension": ".win",
+    "type": "generic",
+    "rank": 55
+  },
+  {
+    "extension": ".agency",
+    "type": "generic",
+    "rank": 56
+  },
+  {
+    "extension": ".review",
+    "type": "generic",
+    "rank": 56
+  },
+  {
+    "extension": ".vision",
+    "type": "generic",
+    "rank": 56
+  },
+  {
+    "extension": ".baseball",
+    "type": "generic",
+    "rank": 57
+  },
+  {
+    "extension": ".spot",
+    "type": "generic",
+    "rank": 57
+  },
+  {
+    "extension": ".safe",
+    "type": "generic",
+    "rank": 58
+  },
+  {
+    "extension": ".sky",
+    "type": "generic",
+    "rank": 58
+  },
+  {
+    "extension": ".smile",
+    "type": "generic",
+    "rank": 58
+  },
+  {
+    "extension": ".circle",
+    "type": "generic",
+    "rank": 60
+  },
+  {
+    "extension": ".garden",
+    "type": "generic",
+    "rank": 60
+  },
+  {
+    "extension": ".boston",
+    "type": "generic",
+    "rank": 61
+  },
+  {
+    "extension": ".eat",
+    "type": "generic",
+    "rank": 61
+  },
+  {
+    "extension": ".travel",
+    "type": "sponsored",
+    "rank": 61
+  },
+  {
+    "extension": ".baby",
+    "type": "generic",
+    "rank": 62
+  },
+  {
+    "extension": ".cool",
+    "type": "generic",
+    "rank": 62
+  },
+  {
+    "extension": ".fund",
+    "type": "generic",
+    "rank": 62
+  },
+  {
+    "extension": ".save",
+    "type": "generic",
+    "rank": 62
+  },
+  {
+    "extension": ".contact",
+    "type": "generic",
+    "rank": 63
+  },
+  {
+    "extension": ".shop",
+    "type": "generic",
+    "rank": 63
+  },
+  {
+    "extension": ".credit",
+    "type": "generic",
+    "rank": 64
+  },
+  {
+    "extension": ".site",
+    "type": "generic",
+    "rank": 64
+  },
+  {
+    "extension": ".attorney",
+    "type": "generic",
+    "rank": 65
+  },
+  {
+    "extension": ".page",
+    "type": "generic",
+    "rank": 66
+  },
+  {
+    "extension": ".search",
+    "type": "generic",
+    "rank": 66
+  },
+  {
+    "extension": ".career",
+    "type": "generic",
+    "rank": 67
+  },
+  {
+    "extension": ".protection",
+    "type": "generic",
+    "rank": 68
+  },
+  {
+    "extension": ".fashion",
+    "type": "generic",
+    "rank": 69
+  },
+  {
+    "extension": ".seek",
+    "type": "generic",
+    "rank": 69
+  },
+  {
+    "extension": ".weather",
+    "type": "generic",
+    "rank": 69
+  },
+  {
+    "extension": ".box",
+    "type": "generic",
+    "rank": 70
+  },
+  {
+    "extension": ".buy",
+    "type": "generic",
+    "rank": 70
+  },
+  {
+    "extension": ".exchange",
+    "type": "generic",
+    "rank": 70
+  },
+  {
+    "extension": ".song",
+    "type": "generic",
+    "rank": 70
+  },
+  {
+    "extension": ".beauty",
+    "type": "generic",
+    "rank": 71
+  },
+  {
+    "extension": ".legal",
+    "type": "generic",
+    "rank": 72
+  },
+  {
+    "extension": ".plus",
+    "type": "generic",
+    "rank": 72
+  },
+  {
+    "extension": ".sharp",
+    "type": "generic",
+    "rank": 72
+  },
+  {
+    "extension": ".wine",
+    "type": "generic",
+    "rank": 72
+  },
+  {
+    "extension": ".brother",
+    "type": "generic",
+    "rank": 73
+  },
+  {
+    "extension": ".berlin",
+    "type": "generic",
+    "rank": 74
+  },
+  {
+    "extension": ".rich",
+    "type": "generic",
+    "rank": 74
+  },
+  {
+    "extension": ".store",
+    "type": "generic",
+    "rank": 74
+  },
+  {
+    "extension": ".camp",
+    "type": "generic",
+    "rank": 75
+  },
+  {
+    "extension": ".dog",
+    "type": "generic",
+    "rank": 75
+  },
+  {
+    "extension": ".fit",
+    "type": "generic",
+    "rank": 75
+  },
+  {
+    "extension": ".vote",
+    "type": "generic",
+    "rank": 75
+  },
+  {
+    "extension": ".coffee",
+    "type": "generic",
+    "rank": 78
+  },
+  {
+    "extension": ".fast",
+    "type": "generic",
+    "rank": 78
+  },
+  {
+    "extension": ".watch",
+    "type": "generic",
+    "rank": 81
+  },
+  {
+    "extension": ".bar",
+    "type": "generic",
+    "rank": 82
+  },
+  {
+    "extension": ".bank",
+    "type": "generic",
+    "rank": 83
+  },
+  {
+    "extension": ".team",
+    "type": "generic",
+    "rank": 83
+  },
+  {
+    "extension": ".catholic",
+    "type": "generic",
+    "rank": 84
+  },
+  {
+    "extension": ".sex",
+    "type": "generic",
+    "rank": 84
+  },
+  {
+    "extension": ".capital",
+    "type": "generic",
+    "rank": 85
+  },
+  {
+    "extension": ".post",
+    "type": "sponsored",
+    "rank": 85
+  },
+  {
+    "extension": ".build",
+    "type": "generic",
+    "rank": 86
+  },
+  {
+    "extension": ".financial",
+    "type": "generic",
+    "rank": 86
+  },
+  {
+    "extension": ".active",
+    "type": "generic",
+    "rank": 88
+  },
+  {
+    "extension": ".dance",
+    "type": "generic",
+    "rank": 90
+  },
+  {
+    "extension": ".kitchen",
+    "type": "generic",
+    "rank": 90
+  },
+  {
+    "extension": ".management",
+    "type": "generic",
+    "rank": 91
+  },
+  {
+    "extension": ".security",
+    "type": "generic",
+    "rank": 91
+  },
+  {
+    "extension": ".construction",
+    "type": "generic",
+    "rank": 95
+  },
+  {
+    "extension": ".film",
+    "type": "generic",
+    "rank": 96
+  },
+  {
+    "extension": ".giving",
+    "type": "generic",
+    "rank": 96
+  },
+  {
+    "extension": ".style",
+    "type": "generic",
+    "rank": 98
+  },
+  {
+    "extension": ".glass",
+    "type": "generic",
+    "rank": 99
+  },
+  {
+    "extension": ".doctor",
+    "type": "generic",
+    "rank": 100
+  },
+  {
+    "extension": ".energy",
+    "type": "generic",
+    "rank": 100
+  },
+  {
+    "extension": ".news",
+    "type": "generic",
+    "rank": 102
+  },
+  {
+    "extension": ".supply",
+    "type": "generic",
+    "rank": 102
+  },
+  {
+    "extension": ".date",
+    "type": "generic",
+    "rank": 103
+  },
+  {
+    "extension": ".drive",
+    "type": "generic",
+    "rank": 105
+  },
+  {
+    "extension": ".health",
+    "type": "generic",
+    "rank": 105
+  },
+  {
+    "extension": ".limited",
+    "type": "generic",
+    "rank": 106
+  },
+  {
+    "extension": ".hospital",
+    "type": "generic",
+    "rank": 110
+  },
+  {
+    "extension": ".faith",
+    "type": "generic",
+    "rank": 111
+  },
+  {
+    "extension": ".seven",
+    "type": "generic",
+    "rank": 113
+  },
+  {
+    "extension": ".design",
+    "type": "generic",
+    "rank": 114
+  },
+  {
+    "extension": ".green",
+    "type": "generic",
+    "rank": 116
+  },
+  {
+    "extension": ".horse",
+    "type": "generic",
+    "rank": 117
+  },
+  {
+    "extension": ".radio",
+    "type": "generic",
+    "rank": 120
+  },
+  {
+    "extension": ".de",
+    "type": "country-code",
+    "rank": 122
+  },
+  {
+    "extension": ".game",
+    "type": "generic",
+    "rank": 123
+  },
+  {
+    "extension": ".farm",
+    "type": "generic",
+    "rank": 124
+  },
+  {
+    "extension": ".degree",
+    "type": "generic",
+    "rank": 125
+  },
+  {
+    "extension": ".press",
+    "type": "generic",
+    "rank": 127
+  },
+  {
+    "extension": ".direct",
+    "type": "generic",
+    "rank": 129
+  },
+  {
+    "extension": ".hot",
+    "type": "generic",
+    "rank": 130
+  },
+  {
+    "extension": ".works",
+    "type": "generic",
+    "rank": 130
+  },
+  {
+    "extension": ".science",
+    "type": "generic",
+    "rank": 131
+  },
+  {
+    "extension": ".army",
+    "type": "generic",
+    "rank": 132
+  },
+  {
+    "extension": ".blue",
+    "type": "generic",
+    "rank": 143
+  },
+  {
+    "extension": ".deal",
+    "type": "generic",
+    "rank": 143
+  },
+  {
+    "extension": ".trade",
+    "type": "generic",
+    "rank": 143
+  },
+  {
+    "extension": ".club",
+    "type": "generic",
+    "rank": 145
+  },
+  {
+    "extension": ".food",
+    "type": "generic",
+    "rank": 147
+  },
+  {
+    "extension": ".hair",
+    "type": "generic",
+    "rank": 148
+  },
+  {
+    "extension": ".meet",
+    "type": "generic",
+    "rank": 149
+  },
+  {
+    "extension": ".earth",
+    "type": "generic",
+    "rank": 150
+  },
+  {
+    "extension": ".talk",
+    "type": "generic",
+    "rank": 154
+  },
+  {
+    "extension": ".international",
+    "type": "generic",
+    "rank": 155
+  },
+  {
+    "extension": ".market",
+    "type": "generic",
+    "rank": 155
+  },
+  {
+    "extension": ".final",
+    "type": "generic",
+    "rank": 156
+  },
+  {
+    "extension": ".property",
+    "type": "generic",
+    "rank": 156
+  },
+  {
+    "extension": ".training",
+    "type": "generic",
+    "rank": 156
+  },
+  {
+    "extension": ".care",
+    "type": "generic",
+    "rank": 162
+  },
+  {
+    "extension": ".rest",
+    "type": "generic",
+    "rank": 163
+  },
+  {
+    "extension": ".equipment",
+    "type": "generic",
+    "rank": 167
+  },
+  {
+    "extension": ".pay",
+    "type": "generic",
+    "rank": 172
+  },
+  {
+    "extension": ".data",
+    "type": "generic",
+    "rank": 173
+  },
+  {
+    "extension": ".read",
+    "type": "generic",
+    "rank": 174
+  },
+  {
+    "extension": ".report",
+    "type": "generic",
+    "rank": 174
+  },
+  {
+    "extension": ".live",
+    "type": "generic",
+    "rank": 177
+  },
+  {
+    "extension": ".support",
+    "type": "generic",
+    "rank": 180
+  },
+  {
+    "extension": ".space",
+    "type": "generic",
+    "rank": 184
+  },
+  {
+    "extension": ".fire",
+    "type": "generic",
+    "rank": 187
+  },
+  {
+    "extension": ".call",
+    "type": "generic",
+    "rank": 188
+  },
+  {
+    "extension": ".living",
+    "type": "generic",
+    "rank": 194
+  },
+  {
+    "extension": ".book",
+    "type": "generic",
+    "rank": 197
+  },
+  {
+    "extension": ".red",
+    "type": "generic",
+    "rank": 197
+  },
+  {
+    "extension": ".play",
+    "type": "generic",
+    "rank": 200
+  },
+  {
+    "extension": ".tax",
+    "type": "generic",
+    "rank": 201
+  },
+  {
+    "extension": ".black",
+    "type": "generic",
+    "rank": 203
+  },
+  {
+    "extension": ".top",
+    "type": "generic",
+    "rank": 204
+  },
+  {
+    "extension": ".art",
+    "type": "generic",
+    "rank": 208
+  },
+  {
+    "extension": ".total",
+    "type": "generic",
+    "rank": 211
+  },
+  {
+    "extension": ".run",
+    "type": "generic",
+    "rank": 212
+  },
+  {
+    "extension": ".town",
+    "type": "generic",
+    "rank": 212
+  },
+  {
+    "extension": ".education",
+    "type": "generic",
+    "rank": 214
+  },
+  {
+    "extension": ".university",
+    "type": "generic",
+    "rank": 214
+  },
+  {
+    "extension": ".able",
+    "type": "generic",
+    "rank": 216
+  },
+  {
+    "extension": ".music",
+    "type": "generic",
+    "rank": 216
+  },
+  {
+    "extension": ".party",
+    "type": "generic",
+    "rank": 216
+  },
+  {
+    "extension": ".land",
+    "type": "generic",
+    "rank": 218
+  },
+  {
+    "extension": ".center",
+    "type": "generic",
+    "rank": 224
+  },
+  {
+    "extension": ".community",
+    "type": "generic",
+    "rank": 231
+  },
+  {
+    "extension": ".love",
+    "type": "generic",
+    "rank": 231
+  },
+  {
+    "extension": ".am",
+    "type": "country-code",
+    "rank": 237
+  },
+  {
+    "extension": ".study",
+    "type": "generic",
+    "rank": 246
+  },
+  {
+    "extension": ".office",
+    "type": "generic",
+    "rank": 255
+  },
+  {
+    "extension": ".free",
+    "type": "generic",
+    "rank": 259
+  },
+  {
+    "extension": ".money",
+    "type": "generic",
+    "rank": 265
+  },
+  {
+    "extension": ".college",
+    "type": "generic",
+    "rank": 267
+  },
+  {
+    "extension": ".car",
+    "type": "generic",
+    "rank": 274
+  },
+  {
+    "extension": ".today",
+    "type": "generic",
+    "rank": 284
+  },
+  {
+    "extension": ".show",
+    "type": "generic",
+    "rank": 288
+  },
+  {
+    "extension": ".company",
+    "type": "generic",
+    "rank": 290
+  },
+  {
+    "extension": ".name",
+    "type": "generic-restricted",
+    "rank": 294
+  },
+  {
+    "extension": ".law",
+    "type": "generic",
+    "rank": 299
+  },
+  {
+    "extension": ".help",
+    "type": "generic",
+    "rank": 311
+  },
+  {
+    "extension": ".open",
+    "type": "generic",
+    "rank": 318
+  },
+  {
+    "extension": ".country",
+    "type": "generic",
+    "rank": 324
+  },
+  {
+    "extension": ".family",
+    "type": "generic",
+    "rank": 331
+  },
+  {
+    "extension": ".church",
+    "type": "generic",
+    "rank": 348
+  },
+  {
+    "extension": ".best",
+    "type": "generic",
+    "rank": 351
+  },
+  {
+    "extension": ".case",
+    "type": "generic",
+    "rank": 362
+  },
+  {
+    "extension": ".social",
+    "type": "generic",
+    "rank": 380
+  },
+  {
+    "extension": ".room",
+    "type": "generic",
+    "rank": 384
+  },
+  {
+    "extension": ".group",
+    "type": "generic",
+    "rank": 390
+  },
+  {
+    "extension": ".business",
+    "type": "generic",
+    "rank": 393
+  },
+  {
+    "extension": ".city",
+    "type": "generic",
+    "rank": 393
+  },
+  {
+    "extension": ".next",
+    "type": "generic",
+    "rank": 394
+  },
+  {
+    "extension": ".got",
+    "type": "generic",
+    "rank": 482
+  },
+  {
+    "extension": ".school",
+    "type": "generic",
+    "rank": 493
+  },
+  {
+    "extension": ".place",
+    "type": "generic",
+    "rank": 570
+  },
+  {
+    "extension": ".house",
+    "type": "generic",
+    "rank": 591
+  },
+  {
+    "extension": ".off",
+    "type": "generic",
+    "rank": 639
+  },
+  {
+    "extension": ".us",
+    "type": "country-code",
+    "rank": 675
+  },
+  {
+    "extension": ".day",
+    "type": "generic",
+    "rank": 687
+  },
+  {
+    "extension": ".life",
+    "type": "generic",
+    "rank": 715
+  },
+  {
+    "extension": ".here",
+    "type": "generic",
+    "rank": 750
+  },
+  {
+    "extension": ".work",
+    "type": "generic",
+    "rank": 762
+  },
+  {
+    "extension": ".men",
+    "type": "generic",
+    "rank": 763
+  },
+  {
+    "extension": ".world",
+    "type": "generic",
+    "rank": 787
+  },
+  {
+    "extension": ".how",
+    "type": "generic",
+    "rank": 834
+  },
+  {
+    "extension": ".me",
+    "type": "country-code",
+    "rank": 1181
+  },
+  {
+    "extension": ".man",
+    "type": "generic",
+    "rank": 1207
+  },
+  {
+    "extension": ".like",
+    "type": "generic",
+    "rank": 1292
+  },
+  {
+    "extension": ".now",
+    "type": "generic",
+    "rank": 1314
+  },
+  {
+    "extension": ".my",
+    "type": "country-code",
+    "rank": 1318
+  },
+  {
+    "extension": ".do",
+    "type": "country-code",
+    "rank": 1363
+  },
+  {
+    "extension": ".new",
+    "type": "generic",
+    "rank": 1635
+  },
+  {
+    "extension": ".so",
+    "type": "country-code",
+    "rank": 1985
+  },
+  {
+    "extension": ".no",
+    "type": "country-code",
+    "rank": 2139
+  },
+  {
+    "extension": ".you",
+    "type": "generic",
+    "rank": 3286
+  },
+  {
+    "extension": ".one",
+    "type": "generic",
+    "rank": 3292
+  },
+  {
+    "extension": ".an",
+    "type": "country-code",
+    "rank": 3740
+  },
+  {
+    "extension": ".by",
+    "type": "country-code",
+    "rank": 5306
+  },
+  {
+    "extension": ".at",
+    "type": "country-code",
+    "rank": 5372
+  },
+  {
+    "extension": ".be",
+    "type": "country-code",
+    "rank": 6377
+  },
+  {
+    "extension": ".as",
+    "type": "country-code",
+    "rank": 7253
+  },
+  {
+    "extension": ".it",
+    "type": "country-code",
+    "rank": 8760
+  },
+  {
+    "extension": ".is",
+    "type": "country-code",
+    "rank": 10109
+  },
+  {
+    "extension": ".in",
+    "type": "country-code",
+    "rank": 21337
+  },
+  {
+    "extension": ".to",
+    "type": "country-code",
+    "rank": 26158
+  }
+]

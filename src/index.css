@@ -1,0 +1,13 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  background-color: #0a0c11;
+  font-family: monospace;
+  color: white;
+}
+
+@font-face {
+  font-family: "SF Mono";
+  src: url("/src/assets/SF-Mono-Medium.otf") format("opentype");
+}
