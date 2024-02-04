@@ -1,21 +1,14 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import App from "./App";
-import Header from "./components/Header/Header";
-import DomainSearch from "./components/DomainSearch/DomainSearch";
-
+import App from "./App.jsx";
 import "./index.css";
+import Header from "./components/Header/Header.jsx";
 
-const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(
+ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <Header />
-    <Router>
-      <Routes>
-        <Route path="/" element={<App />} />
-        <Route path="/domains" element={<DomainSearch />} />
-      </Routes>
-    </Router>
+    <>
+      <Header />
+      <App />
+    </>
   </React.StrictMode>
 );

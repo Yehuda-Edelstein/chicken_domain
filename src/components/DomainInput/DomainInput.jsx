@@ -1,6 +1,7 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import getPossibleDomains from "../../utils/getPossibleDomains";
 import Results from "../Results/Results";
+import domainExtensions from "./../../data/domains.json";
 // import DomainSandbox from "../DomainSandbox/DomainSandbox";
 
 import "./DomainInput.css";
@@ -8,16 +9,9 @@ import "./DomainInput.css";
 const DomainInput = () => {
   const [input, setInput] = useState("");
   const [domains, setDomains] = useState([]);
-  const [domainExtensions, setDomainExtensions] = useState([]);
 
   const [submitted, setSubmitted] = useState(false);
   const [error, setError] = useState(false);
-
-  useEffect(() => {
-    fetch("/src/data/domains.json")
-      .then((response) => response.json())
-      .then((data) => setDomainExtensions(data));
-  }, []);
 
   const handleChange = (input) => {
     if (input.length > 63) {
