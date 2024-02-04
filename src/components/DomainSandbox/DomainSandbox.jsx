@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react";
 import Quill from "quill";
 import "quill/dist/quill.snow.css";
-import domainExtensions from "./../../data/domains.json"; // Ensure this path is correct
+import domainExtensions from "../../data/domains"; // Ensure this path is correct
 
 function DomainSandbox() {
   const editorRef = useRef(null);

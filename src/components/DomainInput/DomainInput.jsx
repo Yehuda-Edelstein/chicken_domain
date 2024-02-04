@@ -1,7 +1,7 @@
 import { useState } from "react";
 import getPossibleDomains from "../../utils/getPossibleDomains";
 import Results from "../Results/Results";
-import domainExtensions from "./../../data/domains.json";
+import { domainExtensions } from "../../data/domains";
 // import DomainSandbox from "../DomainSandbox/DomainSandbox";
 
 import "./DomainInput.css";
