@@ -27,6 +27,9 @@ const DomainInput = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    if (input.length < 63) {
+      setError(false);
+    }
     setDomains(getPossibleDomains(input, domainExtensions));
     setSubmitted(true);
   };
